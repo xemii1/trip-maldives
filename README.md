@@ -57,3 +57,40 @@
 | 26 | Cocoon Maldives                                  | 5*        | Лавияни                     | 6            | 449 566 ₽      | [trip-cocoon-maldives-26.md](trips/trip-cocoon-maldives-26.md)                                                       |
 | 28 | The Westin Maldives Miriandhoo Resort            | 5*        | Атолл Баа (биосфера ЮНЕСКО) | 6            | 455 623 ₽      | [trip-the-westin-maldives-miriandhoo-resort-28.md](trips/trip-the-westin-maldives-miriandhoo-resort-28.md)           |
 | 29 | Niva Dhigali Maldives                            | 5*        | Раа                         | 6            | 498 611 ₽      | [trip-niva-dhigali-maldives-29.md](trips/trip-niva-dhigali-maldives-29.md)                                           |
+
+## Краткая сводка по номерам и активностям
+
+Питание и алкоголь — «да» у всех 30 вариантов (это было условием отбора, см. «Вводные»); показаны здесь для удобства сверки. Дайвинг и сёрфинг — качественная оценка по репутации атолла/курорта и близости к известным дайв-сайтам и сёрф-брейкам (не официальный рейтинг, уточняйте на сайте отеля). Отсортировано по номеру варианта.
+
+| №  | Отель                                             | Тип номера              | Питание | Алкоголь | Дайвинг   | Сёрфинг     |
+|----|----------------------------------------------------|-------------------------|---------|----------|-----------|-------------|
+| 1  | Perla Dhangethi                                    | бунгало на берегу       | да      | да       | хорошо    | отсутствует |
+| 2  | Noovilu Suites Maldives                            | сьют на берегу          | да      | да       | хорошо    | отсутствует |
+| 3  | Season Paradise                                    | бунгало на берегу       | да      | да       | хорошо    | отсутствует |
+| 4  | Machchafushi Island Resort & Spa                   | вилла на берегу         | да      | да       | отлично   | отсутствует |
+| 5  | Fihalhohi Island Resort                            | бунгало на берегу       | да      | да       | отлично   | плохо       |
+| 6  | Kandima Maldives                                   | студия на берегу        | да      | да       | хорошо    | хорошо      |
+| 7  | Centara Ras Fushi Resort & Spa (Adults Only 18+)   | вилла над водой         | да      | да       | хорошо    | плохо       |
+| 8  | Villa Park (Ex. Sun Island Resort & Spa)           | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 9  | Sheraton Maldives Full Moon Resort & Spa           | вилла на берегу         | да      | да       | хорошо    | плохо       |
+| 10 | Avani+ Fares Maldives Resort                       | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 11 | Nooe Maldives Kunaavashi                           | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 12 | Holiday Inn Resort Kandooma Maldives               | бунгало на берегу       | да      | да       | хорошо    | отлично     |
+| 13 | Royal Island Resort & Spa                          | вилла на берегу         | да      | да       | отлично   | отсутствует |
+| 14 | Sun Siyam Olhuveli                                 | вилла над водой         | да      | да       | хорошо    | хорошо      |
+| 15 | Furaveri Island Resort & Spa                       | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 16 | Bandos Maldives                                    | бунгало на берегу       | да      | да       | отлично   | плохо       |
+| 17 | Thulhagiri Island Resort                           | бунгало на берегу       | да      | да       | хорошо    | плохо       |
+| 18 | Cinnamon Dhonveli Maldives                         | бунгало на берегу       | да      | да       | хорошо    | отлично     |
+| 19 | Ellaidhoo Maldives by Cinnamon                     | бунгало на берегу       | да      | да       | отлично   | отсутствует |
+| 20 | Canareef Resort Maldives                           | бунгало на берегу       | да      | да       | отлично   | плохо       |
+| 21 | Villa Nautica (Ex. Paradise Island)                | вилла на берегу         | да      | да       | хорошо    | плохо       |
+| 22 | The Standard, Huruvalhi Maldives                   | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 23 | Le Meridien Maldives Resort & Spa                  | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 24 | Hard Rock Hotel Maldives                           | вилла на берегу         | да      | да       | хорошо    | плохо       |
+| 25 | Kudafushi Resort & Spa                             | вилла на берегу         | да      | да       | хорошо    | отсутствует |
+| 26 | Cocoon Maldives                                    | вилла над водой         | да      | да       | хорошо    | отсутствует |
+| 27 | Adaaran Select Hudhuranfushi                       | вилла-гарден на берегу  | да      | да       | хорошо    | отлично     |
+| 28 | The Westin Maldives Miriandhoo Resort              | вилла на берегу         | да      | да       | отлично   | отсутствует |
+| 29 | Niva Dhigali Maldives                              | вилла над водой         | да      | да       | хорошо    | отсутствует |
+| 30 | Niva Velassaru Maldives                            | вилла на берегу         | да      | да       | хорошо    | плохо       |
