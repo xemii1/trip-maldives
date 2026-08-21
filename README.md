@@ -1,4 +1,4 @@
-# Мальдивы — маршрут поездки, 32 варианта размещения (реальные цены)
+# Мальдивы — маршрут поездки, 50 вариантов размещения (реальные цены)
 
 ## Вводные
 
@@ -20,11 +20,11 @@
 5. Цена «Итого на двоих» в таблице ниже — это **реальная, подтверждённая вживую на level.travel цена всего пакета** (перелёт + отель + трансфер), а не сумма из двух независимо оценённых кусков. Раздел «Рейс» в каждом файле по-прежнему приводит для конкретики реальный прямой рейс Аэрофлота (≈145 000 ₽ на двоих) — «Стоимость проживания» в файле отеля посчитана как *общая проверенная цена минус эта сумма за перелёт*, то есть это расчётная величина, зависящая от того, каким перевозчиком реально летит выбранный тур (агрегатор может использовать другой рейс/чартер по той же итоговой цене).
 6. **Перекрёстная проверка на Booking.com** (независимо от level.travel): Canareef Resort Maldives, тариф «Всё включено», 7 ночей, 2 взрослых, **только отель без перелёта — 220 358 ₽**. У level.travel полный пакет (перелёт+отель+трансфер) для этого же отеля — 433 034 ₽; вычитая ориентировочный перелёт (145 000 ₽), получаем расчётную цену отеля 288 034 ₽ — того же порядка, разница объясняется внутренним перелётом до атолла Адду и/или более дорогим трансфером в составе пакета level.travel. Это подтверждает, что цифры в таблице ниже не завышены и не занижены на порядок.
 
-7. **Поиск напрямую на Booking.com (не только отели из исходного списка level.travel)** нашёл ещё **5 курортных островов** с официальным фильтром Meal Plan = «Всё включено» (это отдельная категория самого Booking.com, а не текст в описании — надёжнее, чем у level.travel), которых не было в исходной подборке, и все 5 укладываются в бюджет: **Adaaran Club Rannalhi** (279 095 ₽ отель + перелёт), **Riu Atoll** (281 609 ₽), **Meeru Maldives Resort Island** (302 158 ₽, рейтинг 9,2 при 976 отзывах), **OBLU XPERIENCE Ailafushi** (313 986 ₽), **Malahini Kuda Bandos** (340 326 ₽). Здесь цена отеля показана **отдельно от перелёта** (на Booking.com нет пакетных туров) — к цене отеля прибавлена та же ориентировочная стоимость перелёта (145 000 ₽), что и в остальных расчётах.
+7. **Поиск напрямую на Booking.com (не только отели из исходного списка level.travel)** нашёл ещё **23 курортных острова** с официальным фильтром Meal Plan = «Всё включено» (это отдельная категория самого Booking.com, а не текст в описании — надёжнее, чем у level.travel), которых не было в исходной подборке. Из них **5 укладываются в бюджет**: **Adaaran Club Rannalhi** (279 095 ₽ отель + перелёт), **Riu Atoll** (281 609 ₽), **Meeru Maldives Resort Island** (302 158 ₽, рейтинг 9,2 при 976 отзывах), **OBLU XPERIENCE Ailafushi** (313 986 ₽), **Malahini Kuda Bandos** (340 326 ₽). Остальные **18** (Riu Palace Maldivas, Medhufushi, Eri Maldives, Centara Mirage Lagoon, Kuredu, Safari Island, Rahaa Resort, Ifuru Island, Brennia Kottefaru, Nika Island, Taj Coral Reef, Niva Kuramathi, OBLU NATURE Helengeli, Mercure Kooddoo, Adaaran Select Meedhupparu, Sandies Bathala, NH Collection Reethi, ROBINSON NOONU) превышают бюджет, но добавлены для полноты картины и сравнения атоллов/типов курортов. Здесь цена отеля показана **отдельно от перелёта** (на Booking.com нет пакетных туров) — к цене отеля прибавлена та же ориентировочная стоимость перелёта (145 000 ₽), что и в остальных расчётах.
 
 **Вывод:** бюджет 500 000 ₽ на двоих за 7 ночей с настоящим «всё включено + алкоголь» на острове-курорте Мальдив в начале ноября 2026 — достижим при отдельном бронировании отеля и перелёта: **9 настоящих курортных островов** укладываются в бюджет с гарантированным алкоголем (4 через пакетные туры level.travel + 5 через прямое бронирование на Booking.com). Perla Dhangethi формально тоже укладывается по цене, но алкоголь там, вероятнее всего, не входит — сохранён в списке как самый дешёвый бюджетный вариант, но с явной пометкой несоответствия требованию.
 
-Вариантов, уложившихся в бюджет по цене: **10 из 32** проверенных, из них с подтверждённым алкоголем — **9**. Максимум в подборке — 808 590 ₽, минимум — 279 095 ₽ (только отель, без перелёта) / 343 866 ₽ (полный пакет с перелётом, Perla Dhangethi). Таблица отсортирована по возрастанию итоговой цены.
+Вариантов, уложившихся в бюджет по цене: **10 из 50** проверенных, из них с подтверждённым алкоголем — **9**. Максимум в подборке — 808 590 ₽, минимум — 279 095 ₽ (только отель, без перелёта) / 343 866 ₽ (полный пакет с перелётом, Perla Dhangethi). Таблица отсортирована по возрастанию итоговой цены.
 
 ## Список вариантов
 
@@ -42,22 +42,40 @@
 | 18 | Cinnamon Dhonveli Maldives | 4* | Северный Мале | 498 670 ₽ | ✅ | [trip-cinnamon-dhonveli-maldives-18.md](trips/trip-cinnamon-dhonveli-maldives-18.md) |
 | 7 | Centara Ras Fushi Resort & Spa (Adults Only 18+) | 4* | Северный Мале | 505 751 ₽ | ❌ | [trip-centara-ras-fushi-resort-spa-adults-only-18-7.md](trips/trip-centara-ras-fushi-resort-spa-adults-only-18-7.md) |
 | 16 | Bandos Maldives | 4* | Северный Мале | 506 370 ₽ | ❌ | [trip-bandos-maldives-16.md](trips/trip-bandos-maldives-16.md) |
+| 36 | Riu Palace Maldivas - All Inclusive 🅱️ | 4* | Атолл Дхаалу | 507 158 ₽ | ❌ | [trip-riu-palace-maldivas-all-inclusive-36.md](trips/trip-riu-palace-maldivas-all-inclusive-36.md) |
+| 37 | Medhufushi Island Resort 🅱️ | 4* | Атолл Мимиу (Meemu) | 510 830 ₽ | ❌ | [trip-medhufushi-island-resort-37.md](trips/trip-medhufushi-island-resort-37.md) |
 | 8 | Villa Park (Ex. Sun Island Resort & Spa) | 5* | Южный Ари | 517 122 ₽ | ❌ | [trip-villa-park-ex-sun-island-resort-spa-8.md](trips/trip-villa-park-ex-sun-island-resort-spa-8.md) |
+| 38 | Eri Maldives 🅱️ | 5* | Северный Мале Атолл | 525 744 ₽ | ❌ | [trip-eri-maldives-38.md](trips/trip-eri-maldives-38.md) |
+| 39 | Centara Mirage Lagoon Maldives 🅱️ | 4* | Северный Мале Атолл | 525 896 ₽ | ❌ | [trip-centara-mirage-lagoon-maldives-39.md](trips/trip-centara-mirage-lagoon-maldives-39.md) |
 | 12 | Holiday Inn Resort Kandooma Maldives | 4* | Южный Мале | 526 058 ₽ | ❌ | [trip-holiday-inn-resort-kandooma-maldives-12.md](trips/trip-holiday-inn-resort-kandooma-maldives-12.md) |
 | 17 | Thulhagiri Island Resort | 4* | Северный Мале | 526 576 ₽ | ❌ | [trip-thulhagiri-island-resort-17.md](trips/trip-thulhagiri-island-resort-17.md) |
 | 5 | Fihalhohi Island Resort | 3* | Южный Мале | 528 222 ₽ | ❌ | [trip-fihalhohi-island-resort-5.md](trips/trip-fihalhohi-island-resort-5.md) |
 | 6 | Kandima Maldives | 5* | Даалу | 532 258 ₽ | ❌ | [trip-kandima-maldives-6.md](trips/trip-kandima-maldives-6.md) |
+| 40 | Kuredu Island Resort & Spa 🅱️ | 4* | Лавияни Атолл | 537 662 ₽ | ❌ | [trip-kuredu-island-resort-spa-40.md](trips/trip-kuredu-island-resort-spa-40.md) |
+| 41 | Safari Island Resort & Spa Maldives 🅱️ | 4* | Северный Ари Атолл | 547 453 ₽ | ❌ | [trip-safari-island-resort-spa-maldives-41.md](trips/trip-safari-island-resort-spa-maldives-41.md) |
 | 13 | Royal Island Resort & Spa | 5* | Атолл Баа (биосфера ЮНЕСКО) | 552 580 ₽ | ❌ | [trip-royal-island-resort-spa-13.md](trips/trip-royal-island-resort-spa-13.md) |
+| 42 | Rahaa Resort Maldives 🅱️ | 5* | Атолл Хаа Алиф (дальний север) | 554 155 ₽ | ❌ | [trip-rahaa-resort-maldives-42.md](trips/trip-rahaa-resort-maldives-42.md) |
 | 11 | Nooe Maldives Kunaavashi | 5* | Вааву Атолл | 557 773 ₽ | ❌ | [trip-nooe-maldives-kunaavashi-11.md](trips/trip-nooe-maldives-kunaavashi-11.md) |
 | 9 | Sheraton Maldives Full Moon Resort & Spa | 5* | Северный Мале | 569 368 ₽ | ❌ | [trip-sheraton-maldives-full-moon-resort-spa-9.md](trips/trip-sheraton-maldives-full-moon-resort-spa-9.md) |
+| 43 | Ifuru Island Maldives 🅱️ | 5* | Раа Атолл | 571 627 ₽ | ❌ | [trip-ifuru-island-maldives-43.md](trips/trip-ifuru-island-maldives-43.md) |
+| 44 | Brennia Kottefaru Maldives 🅱️ | 5* | Раа Атолл | 580 854 ₽ | ❌ | [trip-brennia-kottefaru-maldives-44.md](trips/trip-brennia-kottefaru-maldives-44.md) |
+| 45 | Nika Island Resort & Spa, Maldives 🅱️ | 4* | Южный Ари Атолл | 585 374 ₽ | ❌ | [trip-nika-island-resort-spa-maldives-45.md](trips/trip-nika-island-resort-spa-maldives-45.md) |
+| 46 | Taj Coral Reef Resort & Spa, Maldives 🅱️ | 5* | Северный Мале Атолл | 590 410 ₽ | ❌ | [trip-taj-coral-reef-resort-spa-maldives-46.md](trips/trip-taj-coral-reef-resort-spa-maldives-46.md) |
 | 26 | Cocoon Maldives | 5* | Лавияни | 600 911 ₽ | ❌ | [trip-cocoon-maldives-26.md](trips/trip-cocoon-maldives-26.md) |
+| 48 | OBLU NATURE Helengeli - All-Inclusive with free Transfers 🅱️ | 4* | Северный Мале Атолл | 602 985 ₽ | ❌ | [trip-oblu-nature-helengeli-all-inclusive-with-free-transfers-48.md](trips/trip-oblu-nature-helengeli-all-inclusive-with-free-transfers-48.md) |
 | 21 | Villa Nautica (Ex. Paradise Island) | 5* | Северный Мале | 603 103 ₽ | ❌ | [trip-villa-nautica-ex-paradise-island-21.md](trips/trip-villa-nautica-ex-paradise-island-21.md) |
 | 25 | Kudafushi Resort & Spa | 5* | Раа | 603 765 ₽ | ❌ | [trip-kudafushi-resort-spa-25.md](trips/trip-kudafushi-resort-spa-25.md) |
+| 47 | Niva Kuramathi Maldives 🅱️ | 5* | Северный Ари Атолл | 608 867 ₽ | ❌ | [trip-niva-kuramathi-maldives-47.md](trips/trip-niva-kuramathi-maldives-47.md) |
 | 4 | Machchafushi Island Resort & Spa | 4* | Южный Ари | 610 132 ₽ | ❌ | [trip-machchafushi-island-resort-spa-4.md](trips/trip-machchafushi-island-resort-spa-4.md) |
+| 49 | Mercure Maldives Kooddoo - Adults-Only Escape 🅱️ | 4* | Атолл Гаафу Алиф (дальний юг) | 611 450 ₽ | ❌ | [trip-mercure-maldives-kooddoo-adults-only-escape-49.md](trips/trip-mercure-maldives-kooddoo-adults-only-escape-49.md) |
 | 14 | Sun Siyam Olhuveli | 4* | Южный Мале | 617 345 ₽ | ❌ | [trip-sun-siyam-olhuveli-14.md](trips/trip-sun-siyam-olhuveli-14.md) |
 | 29 | Niva Dhigali Maldives | 5* | Раа | 618 305 ₽ | ❌ | [trip-niva-dhigali-maldives-29.md](trips/trip-niva-dhigali-maldives-29.md) |
 | 15 | Furaveri Island Resort & Spa | 5* | Раа | 619 412 ₽ | ❌ | [trip-furaveri-island-resort-spa-15.md](trips/trip-furaveri-island-resort-spa-15.md) |
+| 51 | Sandies Bathala 🅱️ | 4* | Северный Ари Атолл | 625 326 ₽ | ❌ | [trip-sandies-bathala-51.md](trips/trip-sandies-bathala-51.md) |
 | 24 | Hard Rock Hotel Maldives | 5* | Южный Мале | 641 820 ₽ | ❌ | [trip-hard-rock-hotel-maldives-24.md](trips/trip-hard-rock-hotel-maldives-24.md) |
+| 50 | Adaaran Select Meedhupparu 🅱️ | 4* | Раа Атолл | 644 959 ₽ | ❌ | [trip-adaaran-select-meedhupparu-50.md](trips/trip-adaaran-select-meedhupparu-50.md) |
+| 52 | NH Collection Maldives Reethi Resort 🅱️ | 5* | Атолл Баа (биосфера ЮНЕСКО) | 647 985 ₽ | ❌ | [trip-nh-collection-maldives-reethi-resort-52.md](trips/trip-nh-collection-maldives-reethi-resort-52.md) |
+| 53 | ROBINSON NOONU - All Inclusive 🅱️ | 5* | Атолл Ноону | 658 080 ₽ | ❌ | [trip-robinson-noonu-all-inclusive-53.md](trips/trip-robinson-noonu-all-inclusive-53.md) |
 | 10 | Avani+ Fares Maldives Resort | 5* | Атолл Баа | 660 993 ₽ | ❌ | [trip-avani-fares-maldives-resort-10.md](trips/trip-avani-fares-maldives-resort-10.md) |
 | 30 | Niva Velassaru Maldives | 5* | Южный Мале | 718 513 ₽ | ❌ | [trip-niva-velassaru-maldives-30.md](trips/trip-niva-velassaru-maldives-30.md) |
 | 28 | The Westin Maldives Miriandhoo Resort | 5* | Атолл Баа (биосфера ЮНЕСКО) | 723 020 ₽ | ❌ | [trip-the-westin-maldives-miriandhoo-resort-28.md](trips/trip-the-westin-maldives-miriandhoo-resort-28.md) |
@@ -85,22 +103,40 @@
 | 18 | Cinnamon Dhonveli Maldives | бунгало на берегу | да | да | хорошо | отлично |
 | 7 | Centara Ras Fushi Resort & Spa (Adults Only 18+) | вилла над водой | да | да | хорошо | плохо |
 | 16 | Bandos Maldives | бунгало на берегу | да | да | отлично | плохо |
+| 36 | Riu Palace Maldivas - All Inclusive 🅱️ | бунгало на берегу | да | да | хорошо | отсутствует |
+| 37 | Medhufushi Island Resort 🅱️ | бунгало на берегу | да | да | хорошо | отсутствует |
 | 8 | Villa Park (Ex. Sun Island Resort & Spa) | вилла на берегу | да | да | хорошо | отсутствует |
+| 38 | Eri Maldives 🅱️ | вилла на берегу | да | да | хорошо | плохо |
+| 39 | Centara Mirage Lagoon Maldives 🅱️ | бунгало на берегу | да | да | хорошо | плохо |
 | 12 | Holiday Inn Resort Kandooma Maldives | бунгало на берегу | да | да | хорошо | отлично |
 | 17 | Thulhagiri Island Resort | бунгало на берегу | да | да | хорошо | плохо |
 | 5 | Fihalhohi Island Resort | бунгало на берегу | да | да | отлично | плохо |
 | 6 | Kandima Maldives | студия на берегу | да | да | хорошо | хорошо |
+| 40 | Kuredu Island Resort & Spa 🅱️ | бунгало на берегу | да | да | отлично | отсутствует |
+| 41 | Safari Island Resort & Spa Maldives 🅱️ | бунгало на берегу | да | да | хорошо | отсутствует |
 | 13 | Royal Island Resort & Spa | вилла на берегу | да | да | отлично | отсутствует |
+| 42 | Rahaa Resort Maldives 🅱️ | вилла на берегу | да | да | хорошо | отсутствует |
 | 11 | Nooe Maldives Kunaavashi | вилла на берегу | да | да | хорошо | отсутствует |
 | 9 | Sheraton Maldives Full Moon Resort & Spa | вилла на берегу | да | да | хорошо | плохо |
+| 43 | Ifuru Island Maldives 🅱️ | вилла на берегу | да | да | хорошо | отсутствует |
+| 44 | Brennia Kottefaru Maldives 🅱️ | вилла на берегу | да | да | хорошо | отсутствует |
+| 45 | Nika Island Resort & Spa, Maldives 🅱️ | бунгало на берегу | да | да | отлично | отсутствует |
+| 46 | Taj Coral Reef Resort & Spa, Maldives 🅱️ | вилла на берегу / над водой | да | да | хорошо | плохо |
 | 26 | Cocoon Maldives | вилла над водой | да | да | хорошо | отсутствует |
+| 48 | OBLU NATURE Helengeli - All-Inclusive with free Transfers 🅱️ | бунгало на берегу | да | да | отлично | отсутствует |
 | 21 | Villa Nautica (Ex. Paradise Island) | вилла на берегу | да | да | хорошо | плохо |
 | 25 | Kudafushi Resort & Spa | вилла на берегу | да | да | хорошо | отсутствует |
+| 47 | Niva Kuramathi Maldives 🅱️ | бунгало на берегу | да | да | отлично | отсутствует |
 | 4 | Machchafushi Island Resort & Spa | вилла на берегу | да | да | отлично | отсутствует |
+| 49 | Mercure Maldives Kooddoo - Adults-Only Escape 🅱️ | бунгало на берегу | да | да | хорошо | отсутствует |
 | 14 | Sun Siyam Olhuveli | вилла над водой | да | да | хорошо | хорошо |
 | 29 | Niva Dhigali Maldives | вилла над водой | да | да | хорошо | отсутствует |
 | 15 | Furaveri Island Resort & Spa | вилла на берегу | да | да | хорошо | отсутствует |
+| 51 | Sandies Bathala 🅱️ | бунгало на берегу | да | да | отлично | отсутствует |
 | 24 | Hard Rock Hotel Maldives | вилла на берегу | да | да | хорошо | плохо |
+| 50 | Adaaran Select Meedhupparu 🅱️ | бунгало на берегу | да | да | хорошо | отсутствует |
+| 52 | NH Collection Maldives Reethi Resort 🅱️ | вилла на берегу | да | да | отлично | отсутствует |
+| 53 | ROBINSON NOONU - All Inclusive 🅱️ | вилла на берегу | да | да | хорошо | отсутствует |
 | 10 | Avani+ Fares Maldives Resort | вилла на берегу | да | да | хорошо | отсутствует |
 | 30 | Niva Velassaru Maldives | вилла на берегу | да | да | хорошо | плохо |
 | 28 | The Westin Maldives Miriandhoo Resort | вилла на берегу | да | да | отлично | отсутствует |
@@ -125,7 +161,7 @@
 ## Методология и источники
 
 - Цены пакетов «перелёт + отель + трансфер» для 30 отелей из исходного списка **проверены вживую в браузере** (chrome-devtools MCP) на [level.travel](https://level.travel): для каждого отеля открывалась страница с параметрами `nights=7&start_date=2026-11-01&adults=2&from=Moscow-RU` и извлекался минимальный тариф именно «Всё включено» на 7 ночей (не «от X ₽», которое обычно означает завтрак). Дата проверки — 21.08.2026.
-- Дополнительные 5 отелей (🅱️) найдены прямым поиском на [Booking.com](https://www.booking.com): страна «Мальдивы», тип объекта «Курортные отели», фильтр Meal Plan = «Всё включено» (официальная категория Booking.com), даты 01.11-08.11.2026, 2 взрослых, сортировка по возрастанию цены — всего найдено 123 варианта, отобраны самые дешёвые. Это цена **только отеля**, без перелёта.
+- Дополнительные 23 отеля (🅱️) найдены прямым поиском на [Booking.com](https://www.booking.com): страна «Мальдивы», тип объекта «Курортные отели», фильтр Meal Plan = «Всё включено» (официальная категория Booking.com), даты 01.11-08.11.2026, 2 взрослых, сортировка по возрастанию цены — всего найдено 123 варианта; из них отобраны 23 (5 самых дешёвых, укладывающихся в бюджет, + ещё 18 для более широкого покрытия атоллов и типов курортов). Дубликаты отелей, уже присутствующих в подборке через level.travel (например, Avani+ Fares, Villa Nautica, Villa Park), пропущены. Это цена **только отеля**, без перелёта.
 - Отдельно перепроверена цена Canareef Resort Maldives (уже входившего в подборку с level.travel) на Booking.com — для сверки порядка цифр между двумя источниками.
 - Список отелей и общие описания островов изначально собраны через WebSearch/WebFetch — статьи [maldivy.ru](https://maldivy.ru/hotels/all-inclusive/) и [belyypesok.ru](https://belyypesok.ru/nedorogie-oteli-na-maldivax-vse-vklyucheno/), а также листинги level.travel.
 - Данные о рейсе — прямой регулярный рейс **Аэрофлот SVO ↔ MLE** (SU324 туда, SU321 обратно), подтверждён на нескольких независимых источниках (tutu.ru, euroavia.ru, uniticket.ru).
